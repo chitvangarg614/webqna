@@ -31,11 +31,6 @@ pydantic-settings==2.8.1
 pydantic_core==2.27.2
 pydeck==0.9.1
 python-dotenv==1.0.1
-pytz==2025.1
-pywin32==310
-PyYAML==6.0.2
-pyzmq==26.3.0
-referencing==0.36.2
 regex==2024.11.6
 scikit-learn==1.6.1
 scipy==1.15.2
